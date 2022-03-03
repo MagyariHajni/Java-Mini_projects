@@ -1,0 +1,6 @@
+First name: JANE
+Last name: DOE
+Email: jane.doe@sales.company.com
+Password: oGEY0I0N
+Mail capacity: 800
+Alternate email: null
